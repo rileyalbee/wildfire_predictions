@@ -1,9 +1,3 @@
-# Riley Albee
-# 10/20/2024
-# Machine Learning: CS379
-# Description:
-#
-
 """
 This script performs fire classification using Random Forest on wildfire data.
 
